@@ -1,7 +1,3 @@
-Thanks for the candid feedback. Let’s rewrite it with a clean, minimal, and professional tone — no emojis, no exaggeration, no filler. Here’s a revised version of the `README.md`:
-
----
-
 # slideSimCheck
 
 This repository explores the distribution of semantic signal across the dimensions of sentence embeddings. It implements two main strategies to identify high-signal subregions in standard dense embeddings, using similarity tasks as a proxy for semantic quality.
