@@ -84,9 +84,6 @@ Each run saves plots to the root directory. Examples include:
 
 * `main.py`: Orchestrates analysis from CLI
 * `utils.py`: Embedding slicing, scoring, plotting
-* `SmartPairWrapper`: MTEB-compatible wrapper using direct cosine similarity
-* `PrecomputedEmbeddingWrapper`: Precomputes embeddings and handles dataset splits
-
 ---
 
 ## Context
